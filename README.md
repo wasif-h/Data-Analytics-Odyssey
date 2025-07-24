@@ -1,7 +1,5 @@
 # 📊 My Data Analytics Journey 🚀  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/wasif-h/Data-Analytics-Odyssey)
 
-![alt text](image.png)
 
 Welcome to **Data Analytics Odyssey**, my personal learning journey into the world of data analytics. Here, I document my progress as I master essential tools, techniques, and concepts in Python for data analysis. This repository will serve as both a study guide and portfolio of hands-on projects. 🌱
 
