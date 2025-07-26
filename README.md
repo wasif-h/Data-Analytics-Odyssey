@@ -1,4 +1,6 @@
-# 📊 My Data Analytics Journey 🚀  
+# 📊 My Data Analytics Journey 🚀 
+
+<img width="626" height="417" alt="image" src="https://github.com/user-attachments/assets/781cf70d-0ad2-4acd-82e8-9a238ab9520f" />
 
 
 Welcome to **Data Analytics Odyssey**, my personal learning journey into the world of data analytics. Here, I document my progress as I master essential tools, techniques, and concepts in Python for data analysis. This repository will serve as both a study guide and portfolio of hands-on projects. 🌱
